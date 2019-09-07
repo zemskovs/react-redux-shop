@@ -1,0 +1,29 @@
+{
+	"name": "react-redux-todo",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"start": "parcel index.html"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"@types/react": "^16.9.2",
+		"@types/react-dom": "^16.8.5",
+		"babel-preset-env": "^1.7.0",
+		"babel-preset-react": "^6.24.1",
+		"lodash": "^4.17.15",
+		"parcel-bundler": "^1.12.3",
+		"react": "^16.9.0",
+		"react-dom": "^16.9.0",
+		"react-redux": "^7.1.1",
+		"redux": "^4.0.4",
+		"redux-logger": "^3.0.6",
+		"redux-thunk": "^2.3.0"
+	},
+	"devDependencies": {
+		"typescript": "^3.5.3"
+	}
+}
