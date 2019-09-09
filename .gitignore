@@ -3,4 +3,5 @@ dist/src.*.js
 dist/src.*.css
 dist/src.*.map
 .cache
+dist
 node_modules
